@@ -35,8 +35,8 @@
 #define GMT_OFFSET -6
 
 // enter your local intranet SSID and password
-#define HOME_SSID "HomeSweetHome"
-#define PASSWORD "1234567899"
+#define HOME_SSID "xxx"
+#define PASSWORD "yyy"
 
 // enter your lat / long corrdinates here
 //#define LAT "34.6993"
